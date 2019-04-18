@@ -4,8 +4,15 @@ js压缩工具，可以对文件夹下所有js文件进行es6语法进行转码�
 
 ## 1、安装Node.js
 
-## 2、将.babelrc、main.js、minify.js、package.json拷贝到你现有的工程根目录下
+## 2、下载源码，将.babelrc、main.js、minify.js、package.json拷贝到你现有的工程根目录下
+````
+git clone git@github.com:ShuangMuChengLi/js-minify-tool.git
+````
+or
+````
+npm install js-minify-tool
 
+````
 ## 3、安装依赖包
 
 ````
