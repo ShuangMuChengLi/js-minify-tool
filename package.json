@@ -1,0 +1,13 @@
+{
+  "name": "js-minify-tool",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./main"
+  },
+  "dependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "uglify-js": "^3.5.4"
+  }
+}
